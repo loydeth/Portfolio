@@ -1,0 +1,15 @@
+# Archivos originales de trabajo (no los usa el sitio)
+uploads/
+
+# Notas internas
+cm-notes.md
+
+# Miniatura de Claude Design
+.thumbnail
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+.vercel
+.claude/
