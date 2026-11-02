@@ -11,6 +11,8 @@ Branding · Contenido para redes · Diseño editorial · Dirección de arte
 
 `N.º 01 — 2026` · `Panamá · Rep. Dominicana` · `+4 años`
 
+**[→ Ver el portafolio en vivo: loydeth.vercel.app](https://loydeth.vercel.app)**
+
 [Instagram](https://www.instagram.com/design_loy/) · [LinkedIn](https://www.linkedin.com/in/loydeth/) · [Behance](https://www.behance.net/Loydeth/moodboards) · [loydeth16@gmail.com](mailto:loydeth16@gmail.com)
 
 </div>
